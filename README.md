@@ -1,4 +1,4 @@
-# s-rnn
+# SRNN Human-Object Activities Preadiction for ROS
 
 
 
